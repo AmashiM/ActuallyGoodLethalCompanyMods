@@ -10,6 +10,7 @@ looking through all the mods so you don't have to.
 * <a href="/#corporate restructure">Corporate Restructure</a>
 * <a href="/#morecompany">MoreCompany</a>
 * <a href="/#lethal doors">Lethal Doors</a>
+* <a href="/#discountalert">DiscountAlert</a>
 
 
 <hr/>
@@ -52,3 +53,10 @@ This could be usefull for trolling friends or killing enemies that make their wa
 adds a button outside the ship to open the door.
 [Link](https://thunderstore.io/c/lethal-company/p/CTNOriginals/OuterDoorButtons/)
 
+<hr />
+
+### DiscountAlert
+notify's you in game when there's a discount
+[Link](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/)
+
+<hr />
